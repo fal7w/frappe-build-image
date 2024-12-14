@@ -1,0 +1,14 @@
+[
+ {
+  "branch": "{frappe_branch}",
+  "url": "https://github.com/fintechsys/payments.git"
+ },
+ {
+  "branch": "version-15",
+  "url": "https://github.com/fintechsys/erpnext.git"
+ },
+ {
+  "branch": "version-15",
+  "url": "https://github.com/frappe/hrms.git"
+ }
+]
